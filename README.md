@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/Testimonials-grid-section)
+- Live Site URL: [live site](https://exquisite-pasca-3ba98e.netlify.app/)
 
 ### Built with
 
